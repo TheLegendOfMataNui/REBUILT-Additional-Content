@@ -12,22 +12,22 @@
 </asset>
 <library_images>
 	<image id="id-image-28" name="wh_cha_10xx_black.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_black.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_black.dds</init_from>
 	</image>
 	<image id="id-image-33" name="wh_cha_10xx_face.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_face.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_face.dds</init_from>
 	</image>
 	<image id="id-image-38" name="wh_cha_10xx_staff.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_staff.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_staff.dds</init_from>
 	</image>
 	<image id="id-image-43" name="wh_cha_10xx_head.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_head.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_head.dds</init_from>
 	</image>
 	<image id="id-image-48" name="wh_cha_10xx_eyes.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_eyes.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_eyes.dds</init_from>
 	</image>
 	<image id="id-image-53" name="wh_cha_10xx_mask.dds.001">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_mask.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_mask.dds</init_from>
 	</image>
 </library_images>
 <library_effects>

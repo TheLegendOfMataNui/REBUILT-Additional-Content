@@ -12,22 +12,22 @@
 </asset>
 <library_images>
 	<image id="id-image-31" name="wh_cha_10xx_black.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_black.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_black.dds</init_from>
 	</image>
 	<image id="id-image-36" name="oe_cha_10xx_face.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/oe_cha_10xx_face.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/oe_cha_10xx_face.dds</init_from>
 	</image>
 	<image id="id-image-41" name="oe_cha_10xx_mask.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/oe_cha_10xx_mask.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/oe_cha_10xx_mask.dds</init_from>
 	</image>
 	<image id="id-image-46" name="on_cha_10xx_eyes.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/po_cha_10xx_eyes.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/po_cha_10xx_eyes.dds</init_from>
 	</image>
 	<image id="id-image-51" name="on_cha_10xx_head.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/on_cha_10xx_head.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/on_cha_10xx_head.dds</init_from>
 	</image>
 	<image id="id-image-56" name="oe_cha_10xx_hammer.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/oe_cha_10xx_hammer.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/oe_cha_10xx_hammer.dds</init_from>
 	</image>
 </library_images>
 <library_effects>

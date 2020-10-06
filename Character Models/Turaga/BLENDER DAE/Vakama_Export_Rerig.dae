@@ -5,29 +5,29 @@
 		<author>Anonymous</author>
 		<authoring_tool>Collada Exporter for Blender 2.6+, by Juan Linietsky (juan@codenix.com)</authoring_tool>
 	</contributor>
-	<created>2020-10-05T06:36:28Z</created>
-	<modified>2020-10-05T06:36:28Z</modified>
+	<created>2020-10-05T21:41:57Z</created>
+	<modified>2020-10-05T21:41:57Z</modified>
 	<unit meter="1.0" name="meter"/>
 	<up_axis>Z_UP</up_axis>
 </asset>
 <library_images>
 	<image id="id-image-31" name="va_cha_10xx_face.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/va_cha_10xx_face.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/va_cha_10xx_face.dds</init_from>
 	</image>
 	<image id="id-image-36" name="va_cha_10xx_mask.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/va_cha_10xx_mask.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/va_cha_10xx_mask.dds</init_from>
 	</image>
 	<image id="id-image-41" name="ga_cha_10xx_eyes.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/ta_cha_10xx_eyes.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/ga_cha_10xx_eyes.dds</init_from>
 	</image>
 	<image id="id-image-46" name="va_cha_10xx_torch.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/va_cha_10xx_torch.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/va_cha_10xx_torch.dds</init_from>
 	</image>
 	<image id="id-image-51" name="wh_cha_10xx_black.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_black.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_black.dds</init_from>
 	</image>
 	<image id="id-image-56" name="va_cha_10xx_head.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/va_cha_10xx_head.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/va_cha_10xx_head.dds</init_from>
 	</image>
 </library_images>
 <library_effects>
@@ -128,7 +128,7 @@
 			</technique>
 		</profile_COMMON>
 	</effect>
-	<effect id="id-fx-40" name="Ga_Eyes-fx">
+	<effect id="id-fx-40" name="Va_Eyes-fx">
 		<profile_COMMON>
 			<newparam sid="id-fx_surf-42">
 				<surface type="2D">
@@ -333,7 +333,7 @@
 	<material id="id-material-39" name="Va_Huna">
 		<instance_effect url="#id-fx-35"/>
 	</material>
-	<material id="id-material-44" name="Ga_Eyes">
+	<material id="id-material-44" name="Va_Eyes">
 		<instance_effect url="#id-fx-40"/>
 	</material>
 	<material id="id-material-49" name="Va_Torch">

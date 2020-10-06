@@ -12,25 +12,25 @@
 </asset>
 <library_images>
 	<image id="id-image-31" name="no_cha_10xx_face.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/no_cha_10xx_face.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/no_cha_10xx_face.dds</init_from>
 	</image>
 	<image id="id-image-36" name="on_cha_10xx_black_1.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/on_cha_10xx_black_1.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/on_cha_10xx_black_1.dds</init_from>
 	</image>
 	<image id="id-image-41" name="no_cha_10xx_mask.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/no_cha_10xx_mask.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/no_cha_10xx_mask.dds</init_from>
 	</image>
 	<image id="id-image-46" name="no_cha_10xx_eyes.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/ga_cha_10xx_eyes.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/ga_cha_10xx_eyes.dds</init_from>
 	</image>
 	<image id="id-image-51" name="wh_cha_10xx_black.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_black.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/wh_cha_10xx_black.dds</init_from>
 	</image>
 	<image id="id-image-56" name="nu_cha_10xx_head.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/nu_cha_10xx_head.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/nu_cha_10xx_head.dds</init_from>
 	</image>
 	<image id="id-image-61" name="no_cha_10xx_trident.dds">
-		<init_from>C:/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/no_cha_10xx_trident.dds</init_from>
+		<init_from>C:/Litestone/source/repos/LOMN-Beta-Rebuilt/blockfiles/characters/Textures/no_cha_10xx_trident.dds</init_from>
 	</image>
 </library_images>
 <library_effects>
