@@ -1,3 +1,9 @@
 *.swatch
 *.swatches
+*.sfk
+*.bak
+*.bik
+*.mp4
+Video/Cutscenes/Frames/
+Video/Legend FMV/Frames/
 desktop.ini
